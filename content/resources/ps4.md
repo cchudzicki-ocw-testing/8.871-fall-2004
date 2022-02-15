@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps4.pdf
-type: OCWFile
 uid: b8aebd2c-09f1-a99d-7dc2-f41bfae6bce4
 ---

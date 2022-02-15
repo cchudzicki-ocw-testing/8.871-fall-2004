@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
-type: OCWFile
 uid: 1f8f83c7-b3c1-b9f4-b210-0921207aa344
 ---
