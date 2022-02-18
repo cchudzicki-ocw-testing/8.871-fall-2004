@@ -29,7 +29,7 @@ By the end of this course, we should be able to take an arbitrary configuration 
 Text, Lecture Notes, and Readings
 ---------------------------------
 
-There is no required textbook for this course. There are class notes and associated readings in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+There is no required textbook for this course. There are class notes and associated readings in the {{< resource_link 96e66129-3853-35d0-be3a-cc5590d75ef7 "lecture notes" >}} section.
 
 References for Mathematical Background:
 
