@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on prerequisite, objectives, text,
+  lecture notes, readings, and  grading.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
